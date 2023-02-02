@@ -1,1 +1,1 @@
-# instagram_code_base
+# insta_code_base
